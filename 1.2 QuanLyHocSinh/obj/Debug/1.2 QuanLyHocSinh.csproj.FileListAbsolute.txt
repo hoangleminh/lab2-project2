@@ -1,0 +1,40 @@
+C:\Users\hoangdinhhuy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\bin\Debug\1.2 QuanLyHocSinh.exe.config
+C:\Users\hoangdinhhuy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\obj\Debug\1.2 QuanLyHocSinh.csprojResolveAssemblyReference.cache
+C:\Users\hoangdinhhuy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\obj\Debug\_1._2_QuanLyHocSinh.frmDangNhap.resources
+C:\Users\hoangdinhhuy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\obj\Debug\_1._2_QuanLyHocSinh.frmMain.resources
+C:\Users\hoangdinhhuy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\obj\Debug\_1._2_QuanLyHocSinh.Properties.Resources.resources
+C:\Users\hoangdinhhuy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\obj\Debug\1.2 QuanLyHocSinh.csproj.GenerateResource.Cache
+C:\Users\hoangdinhhuy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\bin\Debug\1.2 QuanLyHocSinh.exe
+C:\Users\hoangdinhhuy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\bin\Debug\1.2 QuanLyHocSinh.pdb
+C:\Users\hoangdinhhuy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\obj\Debug\1.2 QuanLyHocSinh.exe
+C:\Users\hoangdinhhuy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\obj\Debug\1.2 QuanLyHocSinh.pdb
+C:\Users\Huy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\bin\Debug\1.2 QuanLyHocSinh.exe.config
+C:\Users\Huy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\obj\Debug\1.2 QuanLyHocSinh.exe
+C:\Users\Huy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\obj\Debug\1.2 QuanLyHocSinh.pdb
+C:\Users\Huy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\bin\Debug\1.2 QuanLyHocSinh.exe
+C:\Users\Huy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\bin\Debug\1.2 QuanLyHocSinh.pdb
+C:\Users\Huy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\obj\Debug\1.2 QuanLyHocSinh.csprojResolveAssemblyReference.cache
+C:\Users\Huy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\obj\Debug\_1._2_QuanLyHocSinh.frmDangNhap.resources
+C:\Users\Huy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\obj\Debug\_1._2_QuanLyHocSinh.frmMain.resources
+C:\Users\Huy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\obj\Debug\_1._2_QuanLyHocSinh.Properties.Resources.resources
+C:\Users\Huy\Desktop\1.2 QuanLyHocSinh\1.2 QuanLyHocSinh\obj\Debug\1.2 QuanLyHocSinh.csproj.GenerateResource.Cache
+C:\Users\Huy\Documents\GitHub\Thuctapnhombai2\1.2 QuanLyHocSinh\bin\Debug\1.2 QuanLyHocSinh.exe.config
+C:\Users\Huy\Documents\GitHub\Thuctapnhombai2\1.2 QuanLyHocSinh\obj\Debug\1.2 QuanLyHocSinh.exe
+C:\Users\Huy\Documents\GitHub\Thuctapnhombai2\1.2 QuanLyHocSinh\obj\Debug\1.2 QuanLyHocSinh.pdb
+C:\Users\Huy\Documents\GitHub\Thuctapnhombai2\1.2 QuanLyHocSinh\bin\Debug\1.2 QuanLyHocSinh.exe
+C:\Users\Huy\Documents\GitHub\Thuctapnhombai2\1.2 QuanLyHocSinh\bin\Debug\1.2 QuanLyHocSinh.pdb
+C:\Users\Huy\Documents\GitHub\Thuctapnhombai2\1.2 QuanLyHocSinh\obj\Debug\1.2 QuanLyHocSinh.csprojResolveAssemblyReference.cache
+C:\Users\Huy\Documents\GitHub\Thuctapnhombai2\1.2 QuanLyHocSinh\obj\Debug\_1._2_QuanLyHocSinh.frmDangNhap.resources
+C:\Users\Huy\Documents\GitHub\Thuctapnhombai2\1.2 QuanLyHocSinh\obj\Debug\_1._2_QuanLyHocSinh.frmMain.resources
+C:\Users\Huy\Documents\GitHub\Thuctapnhombai2\1.2 QuanLyHocSinh\obj\Debug\_1._2_QuanLyHocSinh.Properties.Resources.resources
+C:\Users\Huy\Documents\GitHub\Thuctapnhombai2\1.2 QuanLyHocSinh\obj\Debug\1.2 QuanLyHocSinh.csproj.GenerateResource.Cache
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\Thuctapnhombai2\1.2 QuanLyHocSinh\bin\Debug\1.2 QuanLyHocSinh.exe.config
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\Thuctapnhombai2\1.2 QuanLyHocSinh\obj\Debug\1.2 QuanLyHocSinh.exe
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\Thuctapnhombai2\1.2 QuanLyHocSinh\obj\Debug\1.2 QuanLyHocSinh.pdb
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\Thuctapnhombai2\1.2 QuanLyHocSinh\bin\Debug\1.2 QuanLyHocSinh.exe
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\Thuctapnhombai2\1.2 QuanLyHocSinh\bin\Debug\1.2 QuanLyHocSinh.pdb
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\Thuctapnhombai2\1.2 QuanLyHocSinh\obj\Debug\1.2 QuanLyHocSinh.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\Thuctapnhombai2\1.2 QuanLyHocSinh\obj\Debug\_1._2_QuanLyHocSinh.frmDangNhap.resources
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\Thuctapnhombai2\1.2 QuanLyHocSinh\obj\Debug\_1._2_QuanLyHocSinh.frmMain.resources
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\Thuctapnhombai2\1.2 QuanLyHocSinh\obj\Debug\_1._2_QuanLyHocSinh.Properties.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2013\Projects\Thuctapnhombai2\1.2 QuanLyHocSinh\obj\Debug\1.2 QuanLyHocSinh.csproj.GenerateResource.Cache
